@@ -32,7 +32,7 @@ Sep 1999 - Dec 2011
 **C# developer**
 
 # Contact
-edovanasseldonk@outlook.com
+edo@curlybrackets.nl
 
 Tel: +31(0)653578179
 
