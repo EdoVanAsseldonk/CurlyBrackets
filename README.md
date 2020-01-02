@@ -8,7 +8,7 @@ I'm specialized in backend development. I mainly focus on building great api's a
 ## Brisker Group
 Dec 2019 - current
 
-**Lead software developer **
+** Lead software developer **
 
 ## T-Mobile
 Jan 2018 - Nov 2019
