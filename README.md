@@ -5,8 +5,13 @@ I'm specialized in backend development. I mainly focus on building great api's a
 
 
 # Experience
+## Brisker Group
+Dec 2019 - current
+
+**Lead software developer **
+
 ## T-Mobile
-Jan 2018 - current
+Jan 2018 - Nov 2019
 
 **Lead software developer and architect for the BSS of T-Mobile Thuis.**
 
